@@ -1,7 +1,8 @@
 *.pyc
 *~
 __pycache__
-myvenv
+v_lesson
+v_lesson2
 db.sqlite3
 /static
 .DS_Store
